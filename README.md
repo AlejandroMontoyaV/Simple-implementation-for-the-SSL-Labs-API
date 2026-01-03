@@ -8,7 +8,9 @@ To use the simple implementation of the challenge, you just have to open the roo
 go run .
 ```
 
+
 The program will analyze the SSL/TLS configuration of a given host and return a grade.
+It can sometimes take quite a while to complete depending of the status of the servers of SSL Labs
 
 # Grade meaning
 
